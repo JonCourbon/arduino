@@ -17,6 +17,7 @@ Communication between NodeJS and Arduino can be down using a serial communicatio
 - Advised library: Johnny-Five because a large number of electronic components are ready to use with this library. 
 
 Sample:
+
     var five = require("johnny-five");
     var board = new five.Board({
     	port: "/dev/ttyACM0"

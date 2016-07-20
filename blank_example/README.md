@@ -33,6 +33,4 @@ Firmata a generic protocol for communicating with microcontrollers like the Ardu
 
 The Johnny-Five JS library is used ([http://johnny-five.io/](http://johnny-five.io/))
 
-[I'm an inline-style link](https://www.google.com)
-
 
